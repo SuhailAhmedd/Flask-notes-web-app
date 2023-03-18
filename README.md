@@ -1,2 +1,0 @@
-# Flask-notes-web-app
-
